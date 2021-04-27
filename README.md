@@ -12,7 +12,8 @@
 
 填写ETH和ZIL的钱包地址，输入自己的矿工名，填写好显卡的超频参数后点击开始挖矿就🆗了
 
-![1619487335145](C:\Users\liwj\AppData\Roaming\Typora\typora-user-images\1619487335145.png)
+![image](https://user-images.githubusercontent.com/35913263/116172734-dac32d80-a73d-11eb-971d-9108ea52c63f.png)
+
 
 #### 相关链接
 
